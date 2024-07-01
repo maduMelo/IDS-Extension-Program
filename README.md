@@ -36,4 +36,4 @@ The repository includes the following:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
-We would like to thank the Center for Informatics (CIn) at UFPE, Stellantis, FACEPE, the teachers Divanilson Rodrigo Campelo and Paulo Freitas de Araujo Filho and the teaching intern Luigi Fernando Marques da Luz for their support and collaboration throughout this program.
+We would like to thank the Informatics Center (CIn) at UFPE, Stellantis, FACEPE, the teachers Divanilson Rodrigo Campelo and Paulo Freitas de Araujo Filho and the teaching intern Luigi Fernando Marques da Luz for their support and collaboration throughout this program.
